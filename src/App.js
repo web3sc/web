@@ -1,5 +1,4 @@
 import React, { useEffect, useRef, useState } from 'react';
-import video from './assets/video/trees-2.mp4';
 import logo from './assets/images/web3socialcapital.png';
 import TwitterIcon from '@mui/icons-material/Twitter';
 import EmailIcon from '@mui/icons-material/Email';
