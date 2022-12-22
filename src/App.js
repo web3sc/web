@@ -38,6 +38,7 @@ function App() {
       
       <div className='App-header'>
         <div className='box-logo'>
+          <h1 className='logo-w3sc'>w3sc</h1>
           <pre className='logo-text'>Web3 Social Capital</pre>
         </div>
 
