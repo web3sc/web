@@ -1,4 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react';
+import video from './assets/video/snow.mp4';
 import logo from './assets/images/web3socialcapital.png';
 import TwitterIcon from '@mui/icons-material/Twitter';
 import EmailIcon from '@mui/icons-material/Email';
@@ -47,7 +48,7 @@ function App() {
       </div>
 
       <video className='background-video' autoPlay loop muted>
-          <source src="https://cdn.pixabay.com/vimeo/334228164/Loop%20-%2023167.mp4?width=1280&expiry=1671689679&hash=e45672268b64eed892ad02a2a72e6a4a655689b6" type='video/mp4' />
+          <source src={video} type='video/mp4' />
       </video>
       
       <div className="footer">
