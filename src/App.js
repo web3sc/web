@@ -67,7 +67,7 @@ function App() {
       <div class="box box1"><pre><a href='https://thepassivetrust.com/'>The Passive Trust</a> | <b>INFRACSTRUCTURE</b></pre></div>
       <div class="box box2"><pre><a href='https://twitter.com/Explain_like_im'>@Explain_Like_Im</a> | <b>PRODUCT</b></pre></div>
       <div class="box box3"><pre><a href='https://prezenti.xyz'>Prezenti</a> | <b>CURATION</b></pre></div>
-      <div class="box box4"></div>
+      <div class="box box4"><pre><a href='https://ceramic.network/'>Ceramic</a> | <b>GRANT</b></pre></div>
     </div>
     </div>
     </>
