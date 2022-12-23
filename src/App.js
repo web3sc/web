@@ -70,6 +70,18 @@ function App() {
       <div class="box box4"><pre><a href='https://ceramic.network/'>Ceramic</a> | <b>GRANT</b></pre></div>
     </div>
     </div>
+
+    <div className="page-2">
+    <div class="container">
+      <div class="box box1"><pre><a href='https://tally.cash/'>Tally Ho</a> | <b>INTEGRATIONS</b></pre></div>
+      <div class="box box2"></div>
+      <div class="box box3"></div>
+      <div class="box box4"></div>
+    </div>
+    </div>
+    <div className="box-logo">
+    <a href='https://paragraph.xyz/@0xZOZ/opportunity-capitalist'><pre className='disclaimer'>Not a VC, just a guy with a vision. - Github, CoPilot 2022</pre></a>
+    </div>
     </>
   );
 }

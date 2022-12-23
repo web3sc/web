@@ -136,6 +136,27 @@
     z-index: 3;
   }
 
+  .disclaimer {
+    text-align: center;
+    align-items: center;
+    color: white;
+    z-index: 5;
+    margin: 1%;
+    width: 100%;
+    position: relative;
+    text-decoration: none;
+  }
+
+  .box-logo a {
+    text-decoration: none;
+  }
+ 
+  .disclaimer:hover {
+    transform: scale(1.1);
+    transition: 0.5s;
+    text-decoration-line: line-through
+  }
+
   .box-logo a {
     padding: 15px
   }
