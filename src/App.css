@@ -161,3 +161,14 @@
     padding: 15px
   }
 
+  @media (max-width: 500px) {
+    .box-logo-footer {
+      font-size: 0.5rem;
+    }
+
+    .box{
+      width: 100vw
+    }
+  }
+
+

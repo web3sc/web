@@ -79,7 +79,7 @@ function App() {
       <div class="box box4"></div>
     </div>
     </div>
-    <div className="box-logo">
+    <div className="box-logo-footer">
     <a href='https://paragraph.xyz/@0xZOZ/opportunity-capitalist'><pre className='disclaimer'>Not a VC, just a guy with a vision. - Github, CoPilot 2022</pre></a>
     </div>
     </>
