@@ -69,7 +69,7 @@ function App() {
       <div class="box box4"><pre><a href='https://celocommunityfund.xyz/'>CCF Infografic</a> | <b>DATA</b></pre></div>
       <div class="box box3"><pre><a href='https://prezenti.xyz'>Prezenti</a> | <b>CURATION</b></pre></div>
       <div class="box box4"><pre><a href='https://ceramic.network/'>Ceramic</a> | <b>GRANT</b></pre></div>
-      <div class="box box1"><pre><a href='https://taho.xyz'>Tally Ho</a> | <b>INTEGRATIONS</b></pre></div>
+      <div class="box box1"><pre><a href='https://taho.xyz'>Taho</a> | <b>INTEGRATIONS</b></pre></div>
     </div>
     </div>
 
