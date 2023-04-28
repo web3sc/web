@@ -64,9 +64,9 @@ function App() {
 
     <div className="page-2">
     <div class="container">
-      <div class="box box1"><pre><a href='https://tpt.systems'>TPT</a> | <b>INFRACSTRUCTURE</b></pre></div>
+      <div class="box box1"><pre><a href='https://tpt.systems'>TPT</a> | <b>INFRASTRUCTURE</b></pre></div>
       <div class="box box2"><pre><a href='https://snapshot.directory'>snapshot.directory</a> | <a href='https://stakingdefense.org'><b>SDL</b></a></pre></div>
-      <div class="box box4"><pre><a href='https://celocommunityfund.xyz/'>CCF Infografic</a> | <b>DATA</b></pre></div>
+      <div class="box box4"><pre><a href='https://celocommunityfund.xyz/'>CCF Infographic</a> | <b>DATA</b></pre></div>
       <div class="box box3"><pre><a href='https://prezenti.xyz'>Prezenti</a> | <b>CURATION</b></pre></div>
       <div class="box box4"><pre><a href='https://ceramic.network/'>Ceramic</a> | <b>GRANT</b></pre></div>
       <div class="box box1"><pre><a href='https://taho.xyz'>Taho</a> | <b>INTEGRATIONS</b></pre></div>
